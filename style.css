@@ -743,8 +743,8 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.tangerine {
-    color: rgba(165, 147, 99, 1)!important;
+.no-bg {
+    background: none!important;
 }
 
 .portfolio-thumb {
@@ -831,6 +831,14 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
+}
+
+.bg-black {
+    background-color: rgb(0, 0, 0);
+}
+
+.footer-link {
+    color: #070964!important;
 }
 
 @media (max-width: 1024px) {
